@@ -1,19 +1,10 @@
-## Hi there 👋
+<div align="center">
 
-<!-- [![Jihun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JihunSKKU&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
--->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=253342&text=Welcome!&animation=fadeIn&fontAlignY=35&textBg=false&fontSize=50&fontColor=CBD6E2" />
 
-<!--
-**JihunSKKU/JihunSKKU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JihunSKKU&hide=contribs&show_icons=true&theme=graywhite&include_all_commits=true&hide_rank=true) 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JihunSKKU&hide=html,TeX,SCSS&layout=compact)
+  
+  [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjh31021)](https://solved.ac/kjh31021)
+  
+</div>
