@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Jihun's%20GitHub🌱&fontSize=50)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&fontAlignY=40&section=header&text=Welcome%20to%20Jihun's%20GitHub🌱&fontSize=50)
 
   <a href="https://github.com/JihunSKKU"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=JihunSKKU&hide=contribs&show_icons=true&theme=graywhite&include_all_commits=true&hide_rank=true" alt="Jihun's github stats" /></a>
   <a href="https://github.com/JihunSKKU"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JihunSKKU&hide=html,TeX,SCSS&layout=compact" /></a>
