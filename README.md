@@ -5,8 +5,8 @@
   <a href="https://github.com/JihunSKKU"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=JihunSKKU&hide=contribs&show_icons=true&include_all_commits=true&hide_rank=true" alt="Jihun's github stats" /></a>
   <a href="https://github.com/JihunSKKU"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JihunSKKU&hide=html,TeX,SCSS&layout=compact" /></a>
   <br/><br/>
-  <a href="https://solved.ac/profile/kjh31021"><img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kjh31021" /></a>
-  <br/><br/>
+  <!-- <a href="https://solved.ac/profile/kjh31021"><img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kjh31021" /></a>
+  <br/><br/> -->
 
   <div align=center><h1>📚 STACKS</h1></div>
  
